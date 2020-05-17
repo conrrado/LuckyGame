@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Jogo da Sorte</string>
+    <string name="menu_restart">Restart</string>
+    <string name="error_field_valid">Escolha um número</string>
+    <string name="message_success_user">Você Venceu</string>
+    <string name="message_success_machine">Máquina Venceu</string>
+    <string name="message_start_game">Pressione Par ou Ímpar para jogar!</string>
+    <string name="label_even">Par</string>
+    <string name="label_odd">Impar</string>
+    <string name="label_number_1">1</string>
+    <string name="label_number_2">2</string>
+    <string name="label_number_3">3</string>
+    <string name="label_number_4">4</string>
+    <string name="label_number_5">5</string>
+    <string name="label_choice_machine">Escolha da Máquina</string>
+    <string name="label_player">Jogador</string>
+    <string name="label_machine">Máquina</string>
+    <string name="label_versus">X</string>
+</resources>
